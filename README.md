@@ -1,2 +1,0 @@
-# FirstGitHubProject
-myFirstProject
